@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\UNIDAD3\\multiplicar pila\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF4ED4C-D18D-49C8-9DE8-6ED5E599A8EA}|multiplicar pila\\multiplicar pila.vcxproj|C:\\Users\\david\\source\\repos\\UNIDAD3\\multiplicar pila\\multiplicar pila\\Ensamblador.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9BF4ED4C-D18D-49C8-9DE8-6ED5E599A8EA}|multiplicar pila\\multiplicar pila.vcxproj|solutionrelative:multiplicar pila\\Ensamblador.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ensamblador.asm",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\UNIDAD3\\multiplicar pila\\multiplicar pila\\Ensamblador.asm",
+              "RelativeDocumentMoniker": "multiplicar pila\\Ensamblador.asm",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\UNIDAD3\\multiplicar pila\\multiplicar pila\\Ensamblador.asm",
+              "RelativeToolTip": "multiplicar pila\\Ensamblador.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-14T04:43:22.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

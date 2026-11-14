@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\UNIDAD3\\Procedimientos Anidados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2B029A-D730-45E1-A4FE-C7ED0592011A}|Procedimientos Anidados\\Procedimientos Anidados.vcxproj|C:\\Users\\david\\source\\repos\\UNIDAD3\\Procedimientos Anidados\\Procedimientos Anidados\\Ensamblador.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9A2B029A-D730-45E1-A4FE-C7ED0592011A}|Procedimientos Anidados\\Procedimientos Anidados.vcxproj|solutionrelative:Procedimientos Anidados\\Ensamblador.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ensamblador.asm",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\UNIDAD3\\Procedimientos Anidados\\Procedimientos Anidados\\Ensamblador.asm",
+              "RelativeDocumentMoniker": "Procedimientos Anidados\\Ensamblador.asm",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\UNIDAD3\\Procedimientos Anidados\\Procedimientos Anidados\\Ensamblador.asm",
+              "RelativeToolTip": "Procedimientos Anidados\\Ensamblador.asm",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-27T16:26:31.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

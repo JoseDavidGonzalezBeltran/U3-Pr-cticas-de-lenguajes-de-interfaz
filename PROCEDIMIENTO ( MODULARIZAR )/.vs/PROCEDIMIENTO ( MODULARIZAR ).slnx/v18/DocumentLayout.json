@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\UNIDAD3\\PROCEDIMIENTO ( MODULARIZAR )\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20C0BA02-755F-40DF-BB5F-80E8752C19FB}|PROCEDIMIENTO ( MODULARIZAR )\\PROCEDIMIENTO ( MODULARIZAR ).vcxproj|C:\\Users\\david\\source\\repos\\UNIDAD3\\PROCEDIMIENTO ( MODULARIZAR )\\PROCEDIMIENTO ( MODULARIZAR )\\Ensamblador.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20C0BA02-755F-40DF-BB5F-80E8752C19FB}|PROCEDIMIENTO ( MODULARIZAR )\\PROCEDIMIENTO ( MODULARIZAR ).vcxproj|solutionrelative:PROCEDIMIENTO ( MODULARIZAR )\\Ensamblador.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ensamblador.asm",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\UNIDAD3\\PROCEDIMIENTO ( MODULARIZAR )\\PROCEDIMIENTO ( MODULARIZAR )\\Ensamblador.asm",
+              "RelativeDocumentMoniker": "PROCEDIMIENTO ( MODULARIZAR )\\Ensamblador.asm",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\UNIDAD3\\PROCEDIMIENTO ( MODULARIZAR )\\PROCEDIMIENTO ( MODULARIZAR )\\Ensamblador.asm",
+              "RelativeToolTip": "PROCEDIMIENTO ( MODULARIZAR )\\Ensamblador.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-12T02:15:10.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
